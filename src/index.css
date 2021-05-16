@@ -11,3 +11,64 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar-brand{
+  margin-left: 30px;
+}
+
+.mylinks{
+  margin-left: 200px;
+}
+.nav-item{
+  margin-left: 20px;
+}
+.nav-link{
+  font-size: 20px;
+}
+
+h4:hover{
+  color:orangered;
+  text-decoration: underline ;
+}
+
+h4{
+  color:rgb(175, 169, 182);
+
+
+}
+
+h2{
+  color:orangered;
+}
+
+
+.img-fluid{
+  height:250px;
+  width:250px;
+}
+
+.hai{
+  color: orangered;
+}
+.mytext{
+  color: orangered;
+}
+
+.mytext1{
+  color: orange;
+}
+
+.mytext2{
+  color:burlywood;
+}
+
+.mytext3{
+  color: red;
+}
+
+.mynum{
+margin-top: 100px;
+}
+
+.but{
+  border-radius:50%;
+}
